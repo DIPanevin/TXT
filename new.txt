@@ -1,6 +1,11 @@
 UserInfo
+
 FirstName: Dmitriy
+
 Surname: Panevin
+
 MiddleName: Igorevich
+
 PetCount: 0
+
 DesiredSalary: 150000
