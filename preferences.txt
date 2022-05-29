@@ -1,0 +1,6 @@
+FavoriteData
+Film: Dikari
+Series: Umbrella Academy
+Meal: Roasted chicken
+Season: Summer
+CountryToVisit: Norway
